@@ -31,20 +31,8 @@ public class App {
 
     System.out.println("Here is a list of all links");
     usa.print();
-
-    // ArrayList<Vertex> visitedList = new ArrayList<>();
-    // visitedList.add(newYork);
-    // System.out.println("Depth First Traversal");
-    // Traverser.depthFirstTraversal(newYork, visitedList);
-
-    // System.out.println("\n");
-
-    // ArrayList<Vertex> visitedList2 = new ArrayList<>();
-    // visitedList2.add(newYork);
-    // System.out.println("Breadth First Traversal");
-    // Traverser.breadthFirstTraversal(newYork, visitedList2);
-    //
     System.out.println();
+
     
     MyLinkedList<Vertex> visitedList = new MyLinkedList<>();
     MyLinkedList<Vertex> path = new MyLinkedList<>();

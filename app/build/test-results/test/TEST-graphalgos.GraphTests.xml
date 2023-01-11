@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graphalgos.GraphTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-01-11T19:44:00" hostname="RoryLiam" time="0.004">
+  <properties/>
+  <testcase name="testNonDirectedDeleteEdge" classname="graphalgos.GraphTests" time="0.002"/>
+  <testcase name="testGraphProperties" classname="graphalgos.GraphTests" time="0.001"/>
+  <testcase name="testAddVertex" classname="graphalgos.GraphTests" time="0.0"/>
+  <testcase name="testNonDirectedAddEdge" classname="graphalgos.GraphTests" time="0.0"/>
+  <testcase name="testDeleteEdge" classname="graphalgos.GraphTests" time="0.0"/>
+  <testcase name="testDirectedAddEdge" classname="graphalgos.GraphTests" time="0.0"/>
+  <system-out><![CDATA[graphalgos.Edge@5fdcaa40has been deleted
+graphalgos.Edge@6dc17b83has been deleted
+graphalgos.Edge@5e0826e7has been deleted
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

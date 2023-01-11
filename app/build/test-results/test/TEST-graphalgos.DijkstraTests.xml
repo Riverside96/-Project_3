@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graphalgos.DijkstraTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-01-11T19:44:00" hostname="RoryLiam" time="0.008">
+  <properties/>
+  <testcase name="testGraphNoEdges" classname="graphalgos.DijkstraTests" time="0.006"/>
+  <testcase name="testDijkstra" classname="graphalgos.DijkstraTests" time="0.002"/>
+  <testcase name="testNegativeWeight" classname="graphalgos.DijkstraTests" time="0.0"/>
+  <system-out><![CDATA[List is empty
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
